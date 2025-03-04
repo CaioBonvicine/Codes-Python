@@ -66,7 +66,7 @@ def imprimir_voos(agenda):
     print('Preço total: ', total_preco)
 
 
-caminho_arquivo = r"C:\Codes-Python\AlgoritmosPython\flights.txt"
+caminho_arquivo = r"C:\Codes-Python\CaldendarioDeVooAdpatado\flights.txt"
 
 voos = ler_arquivo_voos(caminho_arquivo)
 
